@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+    background-color: rgb(31, 31, 92);
+    color: aliceblue;
+    margin-top: 1rem;
+}
+
+button,input{
+    background-color: white;
+    color: black;
+}
+
